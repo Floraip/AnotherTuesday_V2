@@ -1,2 +1,3 @@
-# AnotherTuesday_V2
- Text will be shown up once attack
+# AnotherTuesday_v2
+
+Developed with Unreal Engine 5
